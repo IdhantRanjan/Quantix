@@ -25,4 +25,8 @@ yarn-error.log*
 
 # local env files
 .env*.local
-.env 
+.env
+
+# cache
+.cache/
+node_modules/.cache 
